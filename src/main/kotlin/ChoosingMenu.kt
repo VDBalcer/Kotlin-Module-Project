@@ -1,5 +1,4 @@
 import java.util.Scanner
-import javax.swing.text.html.parser.Entity
 
 abstract class ChoosingMenu<T>(
     private val title: String,
